@@ -1,14 +1,23 @@
-# **RPG DATAFRAME**
+<h3 align="center"> 
+  🚧 DISCORD BOT | RPG DATAFRAME 🚧
+</h3>
 
-## ***A personal project to study Data Science using some data from our RPG group.***
-#
+---
+#### ⚙️ ETAPAS / FUNCIONALIDADES:
 
+- [x] A personal project to study Data Science using some data from our RPG group.
 
-- Matplotlib
+---
+#### 🔧 FERRAMENTAS / TECNOLOGIAS:
+
+- Python
 - Pandas
+- Matplotlib
 - Seaborn
+  - histplot
+  - catplot
+  - barplot
+- Markdown
 
-#
-- histplot
-- catplot
-- barplot
+---
+##### 📖 Projeto pessoal
